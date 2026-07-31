@@ -1,41 +1,46 @@
-# Hello, I'm Daniil 👋
+# Hi, I'm Daniil 👋
 
-A software developer passionate about creating efficient and reliable system-level software. My core strength lies in **C++/C**, and I am actively exploring the ecosystems of **Java** and **Go** to broaden my expertise.
+Junior Java-разработчик из Новосибирска. Специализируюсь на **Spring Boot / Spring Data / Kafka**, пишу REST API и событийные сервисы, разворачиваю их в Docker.
 
 ## 🚀 About Me
 
-*   💻 **I code in:** C++, C
-*   🌱 **Currently learning:** Java, Go
-*   💼 **Previous Role:** Software Developer at **Gazprom**
-*   📫 **How to reach me:**[Email](daniilgricaev805@gmail.com)
-*   ⚡ **Fun fact:** I enjoy diving deep into algorithms and performance optimization.(maybe)
+- 💻 **Основной стек:** Java, Spring Boot, Spring Data JPA, Spring Web
+- 🔗 **Интеграции:** Apache Kafka (продюсер/консьюмер), REST API
+- 🗄️ **Базы данных:** PostgreSQL, Oracle, SQL
+- 🐳 **Инфраструктура:** Docker, docker-compose, Git
+- 🧵 **Также умею:** многопоточные приложения на Java Threads (например, чат-сервер), базовый C++ (production-опыт в Газпром нефть — парсинг и обработка данных)
+- 🌱 **Сейчас изучаю:** Go, углубляю Spring и системный дизайн
+- 📫 **Как со мной связаться:** [Email](mailto:daniilgricaev805@gmail.com) · Telegram: [@Daniil_gricaev](https://t.me/Daniil_gricaev)
 
-## 💻 Work Experience
+## 💼 Опыт
 
-### Software Developer | Gazprom
-*Duration: 3 months*
+**Java-разработчик — KIBERone (IT-департамент)** · сен 2025 — апр 2026
+- REST API эндпоинты на Spring Boot/Spring Web для внутренних сервисов автоматизации
+- Kafka producer/consumer для асинхронной передачи событий между модулями
+- Работа с PostgreSQL через Spring Data JPA, транзакции, маппинг сущностей
+- Docker-контейнеризация сервисов, локальное окружение через docker-compose
+- Юнит- и интеграционные тесты, code review, работа с Git в команде
 
-*   Developed specialized software for **geological surveying**.
-*   Key focus: creating algorithms and applications for **subsurface void detection**.
-*   Gained hands-on experience in the full development lifecycle of a critical system tool.
+**Стажёр-разработчик C++ — Газпром нефть, ПАО** · янв 2025 — мар 2025
+- Разработка модуля обработки и парсинга данных на C++
+- Code review с senior-разработчиком, тестирование и отладка алгоритма
 
 ## 🛠️ Tech Stack
 
-*   **Proficient:** C, C++
-*   **Learning:** Java, Go
-*   **Tools:** Git, Linux, (mention others like CMake, Docker, etc.)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/apachekafka-000?style=for-the-badge&logo=apachekafka)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:daniilgricaev805@gmail.com) 
+## 📊 GitHub Stats
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Daniilgricaev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Daniilgricaev&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Daniilgricaev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniilgricaev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Daniilgricaev&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📄 Резюме: открыт к предложениям Java-разработчика (junior), удалённо/гибрид/офис, Новосибирск.
