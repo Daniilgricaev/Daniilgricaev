@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D5DA1,100:ED8B00&height=200&section=header&text=Hi,%20I'm%20Daniil%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Spring%20%7C%20Kafka%20%7C%20Novosibirsk&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D5DA1,100:ED8B00&height=200&section=header&text=Hi,%20I'm%20Daniil%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Developer%20%7C%20Spring%20%7C%20Kafka%20%7C%20Novosibirsk&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=ED8B00&center=true&vCenter=true&width=600&lines=Junior+Java+Developer;Spring+Boot+%2B+Spring+Data+JPA;Apache+Kafka+%7C+PostgreSQL+%7C+Docker;Open+to+work+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-## 🚀 About Me
+## About Me
 
 ```java
 public class Daniil {
@@ -30,7 +30,7 @@ public class Daniil {
 
 <br/>
 
-## 💼 Опыт
+## Опыт
 
 <table>
 <tr>
@@ -60,7 +60,7 @@ public class Daniil {
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@ public class Daniil {
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -90,7 +90,7 @@ public class Daniil {
 
 <div align="center">
 
-### 📄 Открыт к предложениям Java-разработчика (junior)
+### Открыт к предложениям Java-разработчика (junior)
 удалённо · гибрид · офис &nbsp;·&nbsp; Новосибирск
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ED8B00,100:2D5DA1&height=100&section=footer" width="100%"/>
